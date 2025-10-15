@@ -1,0 +1,20 @@
+{
+  "name": "test-git-node",
+  "version": "1.0.0",
+  "description": "Course to learn how to use Git using Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hennelbiz/test-git-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hennelbiz/test-git-node/issues"
+  },
+  "homepage": "https://github.com/Hennelbiz/test-git-node#readme"
+}
